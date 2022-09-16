@@ -21,5 +21,7 @@ The project utilizes interactive technology and sound to transcribe the challeng
 
 
 #### _Credits of Project and Writer_
+The Acknowledgments section for this project is brief. The project director credits specific individuals that helped them with this project. Images and visual aids were supplied by the LC Labs, the Library Congress. Music audios and samples were contributed by the American Folklife Center.
+
 
 #### _Project Review_ 

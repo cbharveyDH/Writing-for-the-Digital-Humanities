@@ -7,8 +7,14 @@
 
 
 #### _Project Summary_ 
+_Southern Mosaic_ is a digital humanities (DH)  project focusing on John Lomax’s, Texas Folklore Society founding member, recording expeditions of American ballads and folklore music. Lomax traveled all over the South and visited Southern prison farms recording work songs, reels, ballads, and blues from prisoners which are defined as an isolated musical culture. Ruby Terrill, Lomax’s wife, composed all written documentation relating to the collection, cataloged the contents of each disc, transcribed song lyrics and composed nearly 307 pages of field notes. John Lomax consumed the knowledge of material he was seeking and ruby Lomax consumed the organization and archival skills of the material needed for the project. 
+
+The project director, Aditya Jain, aims for this project is to inform the reader of the journey and research John and Ruby Lomax studied during their recording expedition as well as introduce an isolated Southern musical culture. .
+
 
 #### _Design of Project_
+The design of this project involves the use of scrolling down rather than hitting a “Next” button or box. Compared to other DH projects I’ve looked at in previous DH classes, I’m used to seeing a more interactive user experience. The project design provides visuals and sound audio which allows the user to fully dive into the history, gain a personal connection to the people directing the project, and travel with the Lomax’s through their recording expedition.
+
 
 #### _Relevance of Project_
 

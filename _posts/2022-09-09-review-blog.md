@@ -17,6 +17,8 @@ The design of this project involves the use of scrolling down rather than hittin
 
 
 #### _Relevance of Project_
+The project utilizes interactive technology and sound to transcribe the challenging aspects of this project. The project director is very knowledgeable within the field of history and music, as this project focuses on the southern musical culture and history of American folklore and ballads. This project relates to our class, Writing for the Digital Humanities, because it offers a different perspective on DH projects and different formatting skills, such as scrolling rather than clicking through a story. 
+
 
 #### _Credits of Project and Writer_
 

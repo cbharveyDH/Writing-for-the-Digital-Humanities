@@ -18,7 +18,7 @@ The design of this project involves the use of scrolling down rather than hittin
 
 This project also includes an interactive map that shows where the Lomax’s traveled and where certain music recordings took place.
 
-![southern mosaic collage](https://cbharveydh.github.io/Writing-for-the-Digital-Humanities/images/southernmosaiccollage.jpeg) 
+![southern mosaic collage](https://cbharveydh.github.io/Writing-for-the-Digital-Humanities/images/
 
 I really enjoyed this interactive image of the project because it allows the viewer to visualize where songs and research took place. As the map takes you through the recording expedition journey, captions pop up with information about what was recorded at that spot. The captions are challenging to read at points because they tend to go very fast. The design of the project shows this image first and then goes more in depth about the Lomax’s recording expedition and their sound recordings.
 

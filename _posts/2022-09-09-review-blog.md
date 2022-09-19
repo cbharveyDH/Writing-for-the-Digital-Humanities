@@ -17,7 +17,8 @@ The project director, Aditya Jain, aims for this project is to inform the reader
 The design of this project involves the use of scrolling down rather than hitting a “Next” button or box. Compared to other DH projects I’ve looked at in previous DH classes, I’m used to seeing a more interactive user experience. The project design provides visuals and sound audio which allows the user to fully dive into the history, gain a personal connection to the people directing the project, and travel with the Lomax’s through their recording expedition.
 
 This project also includes an interactive map that shows where the Lomax’s traveled and where certain music recordings took place.
-![southern mosaic map](
+
+![southern mosaic collage](https://cbharveydh.github.io/Writing-for-the-Digital-Humanities/images/southernmosaiccollage.jpeg) 
 
 I really enjoyed this interactive image of the project because it allows the viewer to visualize where songs and research took place. As the map takes you through the recording expedition journey, captions pop up with information about what was recorded at that spot. The captions are challenging to read at points because they tend to go very fast. The design of the project shows this image first and then goes more in depth about the Lomax’s recording expedition and their sound recordings.
 

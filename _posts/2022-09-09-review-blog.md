@@ -6,6 +6,7 @@
 #### _Project URL:_ https://adityajain15.github.io/lomax/  
 
 
+
 #### _Project Summary_ 
 _Southern Mosaic_ is a digital humanities (DH)  project focusing on John Lomax’s, Texas Folklore Society founding member, recording expeditions of American ballads and folklore music. Lomax traveled all over the South and visited Southern prison farms recording work songs, reels, ballads, and blues from prisoners which are defined as an isolated musical culture. Ruby Terrill, Lomax’s wife, composed all written documentation relating to the collection, cataloged the contents of each disc, transcribed song lyrics and composed nearly 307 pages of field notes. John Lomax consumed the knowledge of material he was seeking and ruby Lomax consumed the organization and archival skills of the material needed for the project. 
 

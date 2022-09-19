@@ -40,7 +40,7 @@ The formatting and organization of this project is challenging to read because t
 
 Aside from the organization, this project provides really interesting photographs of singers and musicians along with their recordings. Texas had the most data and visual aid. I really enjoyed reading about all of the personal stories and the personal connections each singer had to their songs. Texas offered the most variety of music and I liked how the project director included graphs showing recordings and data divided into 4 sections: recordings, people, locations, and state. 
 
-![texas](https://cbharveydh.github.io/Writing-for-the-Digital-Humanities/images/texas.png)
+
 
 The graphs for each state studied was really helpful to tie together all the recordings with the information projects. 
 

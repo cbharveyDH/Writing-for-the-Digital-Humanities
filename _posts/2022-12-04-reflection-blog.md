@@ -8,7 +8,7 @@ Throughout this course we were given multiple writing assignments as well as cha
 
 The readings from this semester also opened my eyes to other definitions of the study, but they were challenging to understand at times. I would usually have to read the readings a few times in order to grasp the concept due to DH being difficult to define. I really enjoyed reading the article “Text Scanning Patterns: Eyetracking Evidence” by Kara Pernice. The article discusses four reading patterns (F-Pattern, Spotted Pattern, Layer-Cake Scanning Pattern, and Commitment Pattern) that people use to scan text when looking at digital readings. This was really helpful when I was adjusting my writing skills to a blog format because it focuses on how users chose to skip or read the content they are reading. 
 
-image
+![spotted](https://cbharveydh.github.io/Writing-for-the-Digital-Humanities/images/spotted.png)
 
 The image above is one of the reading patterns I tend to use, which is the Spotted Pattern. This means that certain texts stand out to me because they have different styles like links or words are colored differently. 
 
@@ -18,8 +18,8 @@ One of my key takeaways from this course was how to write a grant proposal. This
 
 Below is an example of how our project would potentially look:
 
-image
-image
+![play](https://cbharveydh.github.io/Writing-for-the-Digital-Humanities/images/play.png)
+![open](https://cbharveydh.github.io/Writing-for-the-Digital-Humanities/images/open.png)
 
 In class we had to write Review Blogs on DH projects we had researched. I found the second review blog to be more beneficial because I chose a project that had more relation to my grant proposal topic. The project I chose was called “The Universe Within”, which you can read more about this project through my GitHub account. I really enjoyed reviewing this specific project because it provided me with tools that would help me with my grant proposal, such as what digital platforms I would need to use for my interactive documentary project.
 

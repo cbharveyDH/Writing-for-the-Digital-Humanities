@@ -6,7 +6,7 @@
 #### Project Director: Katerina Cizek
 #### URL: http://universewithin.nfb.ca/desktop.html#index 
 
-image
+![universewithin](https://cbharveydh.github.io/Writing-for-the-Digital-Humanities/images/universewithin.png)
 
 **Project Summary**
 
@@ -20,7 +20,7 @@ At the bottom of the project page, the viewer has the option to click through in
 
 When you first enter the main page of this project, you see a city with three people bigger than the highrise city buildings. Each time you move your mouse across the screen the perspective changes in direction. The three people give a quick two-line audio sentence about themselves when waiting on the main page. 
 
-image
+![threepeople](https://cbharveydh.github.io/Writing-for-the-Digital-Humanities/images/threepeople.png)
 
 The viewer has the option to click on one of the three people at a time. First, I chose to click on the little girl.
 

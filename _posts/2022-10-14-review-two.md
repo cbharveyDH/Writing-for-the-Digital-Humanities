@@ -1,4 +1,4 @@
-### Review Blog: Highrise _*Universe Within*_
+### Review Blog: Highrise _Universe Within_
 #### by Claire Harvey 
 
 

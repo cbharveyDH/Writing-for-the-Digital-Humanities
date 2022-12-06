@@ -2,7 +2,7 @@
 #### by Claire Harvey 
 
 
-#### Project: Highrise
+#### Project: Highrise _Universe Within_
 #### Project Director: Katerina Cizek
 #### URL: http://universewithin.nfb.ca/desktop.html#index 
 
